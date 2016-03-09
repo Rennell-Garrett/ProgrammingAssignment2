@@ -1,4 +1,4 @@
-## creating function that cache matrix if there is one
+## creating function that will cache the matrix if there is one
 
 makeCacheMatrix <- function(mat = matrix()) {
   
